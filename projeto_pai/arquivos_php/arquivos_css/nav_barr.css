@@ -1,0 +1,31 @@
+nav{
+	background-color:  rgba(0, 0, 0, 0.781); ;
+	width: 400px;
+    padding: auto;
+    margin-top: 0%;
+    margin-left: 0%;
+	border-left: 8px solid white;
+	border-right: 8px solid white;
+	
+}
+
+.li{
+	display: inline-block;
+}
+
+.a{	
+    width: 60px;
+	display: inline-block;
+	color: rgb(255, 255, 255);
+	text-decoration: none;
+	padding: 25px;
+
+}
+
+.a:hover{
+	background-color: rgb(11, 4, 226);
+}
+
+body{
+    background-color: #000000e2;
+  }

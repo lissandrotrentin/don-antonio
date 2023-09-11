@@ -1,0 +1,36 @@
+table, th, td{
+    border: 2px solid rgb(24, 0, 44);
+    border-collapse: collapse;
+    padding-top: 2px;
+    
+}
+
+table{
+    background-color: rgb(85, 85, 85);
+    width: 800px;
+}
+
+.conteudo{
+    text-align: left;
+}
+
+.acoes{
+    text-align: center;
+}
+
+td{
+    color: blanchedalmond;
+}
+
+
+th{
+    background-color: rgb(247, 30, 11);
+    color: white;
+}
+tr:hover{
+    background-color: rgb(30, 36, 36);
+}
+
+table>tbody>tr>td>a{
+    margin-right: 5px;
+}
